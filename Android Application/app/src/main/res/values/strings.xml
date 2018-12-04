@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_reset">RESET</string>
+    <string name="button_flag_off">UNCOVER MODE</string>
+    <string name="button_flag_on">MARKING MODE</string>
+    <string name="textview1_default">TOTAL MINES = 20</string>
+    <string name="textview2_default">white\'s turn</string>
+    <string name="textview2">MINES MARKED = </string>
+</resources>
